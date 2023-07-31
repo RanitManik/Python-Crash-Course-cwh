@@ -41,12 +41,12 @@ Thank you for joining me on this journey of Python Wizardry, and together, let's
 - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Python-Wizardry.git
+   git clone https://github.com/RanitManik/Python-Wizardry.git
 
 - **Add This repo as Remote**  :
 
    ```bash
-   git remote add origin https://github.com/YourUsername/Python-Wizardry.git
+   git remote add origin https://github.com/RanitManik/Python-Wizardry.git
 
 - **Create and Switch to Your Branch** :
 
