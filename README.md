@@ -86,4 +86,4 @@ Thank you for joining me on this magical adventure through Python-Wizardry. Toge
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: Assets/Background.png
+[product-screenshot]: logo.png
