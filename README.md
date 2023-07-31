@@ -35,7 +35,7 @@ Thank you for joining me on this journey of Python Wizardry, and together, let's
 
 # Getting Started
 
-- ### To delve into this repository, follow these steps:
+_To delve into this repository, follow these steps:_
 
 - **Clone** the repository:
 
