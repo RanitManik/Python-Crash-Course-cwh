@@ -52,6 +52,13 @@ _To explore into this repository, follow these steps:_
    ```bash
    git checkout -b YourBranchName
 
+- **push your changes** to this branch :
+
+   ```bash
+    git push --set-upstream origin DEV/{your_name}/{in which you working on}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 # License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
