@@ -15,7 +15,6 @@
 <a href="https://github.com/YourUsername/Python-Wizardry/issues">Request Feature</a> -->
   </p>
 </div>
-<br>
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/Python-Wizardry.git)
 
