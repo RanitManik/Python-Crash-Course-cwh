@@ -28,7 +28,7 @@ Welcome to Python Wizardry, where we explore the enchanting world of Python prog
 - share knowledge and insights about Python techniques and best practices,
 - cast magical Python spells through creative projects and experiments.
 
-Visit the repository to embark on this mystical Python adventure: https://github.com/YourUsername/Python-Wizardry
+Visit the repository to embark on this mystical Python adventure: https://github.com/RanitManik/Python-Wizardry
 
 Thank you for joining me on this journey of Python Wizardry, and together, let's wield the magic of Python for endless possibilities!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
