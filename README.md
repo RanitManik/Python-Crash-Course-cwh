@@ -23,7 +23,7 @@
 
 Welcome to Python Wizardry, where we explore the enchanting world of Python programming! This repository is a collection of my Python projects and spellbinding code creations. Delve into the realm of algorithms, data structures, and Python sorcery that showcases my journey as a Python wizard.
 
-### My mission is to
+### my mission is to
 
 - inspire others to embrace the power of Python,
 - share knowledge and insights about Python techniques and best practices,
