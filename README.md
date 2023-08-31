@@ -20,7 +20,47 @@
 
 # About The Project
 
-Welcome to Python Wizardry, where we explore the enchanting world of Python programming! This repository is a collection of my Python projects and spellbinding code creations. Delve into the realm of algorithms, data structures, and Python sorcery that showcases my journey as a Python wizard.
+Welcome to Python Wizardry, where we explore the enchanting world of Python programming! This repository is a collection
+of my Python assignments, projects and spellbinding code creations. Delve into the realm of algorithms, data structures,
+and Python sorcery that showcases my journey as a Python wizard.
+
+## Topics
+
+* Installation
+* Setting up a Python Project
+* Our First Program: "Hello World"
+* Comments
+* Variables
+* Typecasting
+* Operators in Python
+* Modules and Pip
+* Download Handwritten Notes
+* String and String Methods
+* User Input in Python
+* List & List Methods
+* Tuple and Tuple Methods
+* Set and Set Methods
+* Dictionary & Dictionary Methods
+* if-else Statements
+* Match case
+* for Loop
+* while Loop
+* Functions
+* Exception Handling
+* File I/O
+* OOPs
+* Project 1: Robo Speaker
+* Project 2: Weather App
+* Project 3: Image Resizer
+* Project 4: PDF Merger
+* Project 5: Facial Recognition Attendance System
+* Conclusion and where to go from here
+
+## Resources
+
+* [Python Tutorial](https://youtu.be/fqF9M92jzUo?si=mKAZ9WnS97VsjvM0)
+* [PyCharm Community Edition](https://jb.gg/getPyCharm)
+* [PyCharm Free Student License](https://jb.gg/GetStudentLicense)
 
 ### my mission is to
 
@@ -30,7 +70,8 @@ Welcome to Python Wizardry, where we explore the enchanting world of Python prog
 
 Visit the repository to embark on this mystical Python adventure: https://github.com/RanitManik/Python-Wizardry
 
-Thank you for joining me on this journey of Python Wizardry, and together, let's wield the magic of Python for endless possibilities!
+Thank you for joining me on this journey of Python Wizardry, and together, let's wield the magic of Python for endless
+possibilities!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Getting Started
@@ -56,8 +97,8 @@ _To explore into this repository, follow these steps:_
 
    ```bash
     git push --set-upstream origin DEV/{your_name}/{in which you working on}
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # License
 
@@ -79,16 +120,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Acknowledgments
 
-I am grateful to the Python community and the vast pool of resources that have contributed to my growth as a Python programmer.
+I am grateful to the Python community and the vast pool of resources that have contributed to my growth as a Python
+programmer.
 
 Special thanks to:
 
 - Online tutorials and courses that provided valuable insights and knowledge about Python programming.
 - Stack Overflow and other developer forums where I found solutions to challenging coding problems.
 - Open-source Python projects and repositories that inspired and educated me in various aspects of Python development.
-- My friends and fellow programmers who offered support, feedback, and encouragement throughout my Python coding journey.
+- My friends and fellow programmers who offered support, feedback, and encouragement throughout my Python coding
+  journey.
 
-Thank you for joining me on this magical adventure through Python-Wizardry. Together, we can harness the power of Python and weave wonders through code!
+Thank you for joining me on this magical adventure through Python-Wizardry. Together, we can harness the power of Python
+and weave wonders through code!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
