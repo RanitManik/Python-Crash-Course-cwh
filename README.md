@@ -29,9 +29,9 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Installation
 - [x] Setting up a Python Project
 - [x] Our First Program: "Hello World"
-- Comments
-- Variables
-- Typecasting
+- [x] Comments
+- [x] Variables
+- [x] Typecasting
 - Operators in Python
 - Modules and Pip
 - Download Handwritten Notes

@@ -1,2 +1,6 @@
-- comment syntax: '#' for single line and ''' comment ''' for multiple line comment
-- Data Types: int, float,... , true/false(Boolean), None
+- **comment syntax:** '#' for single line and ''' comment ''' for multiple line comment
+- **Data Types:** int, float,..., true/false(Boolean), None
+- **float division** (//) - it will only return the integer and avoid float
+- **exponentiation operator** (**) - it will calculate 'a' to the power 'b'
+- **print(not(True)):**  reverse the result
+- **print(not(False)):** reverse the result
