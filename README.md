@@ -26,35 +26,35 @@ and Python sorcery that showcases my journey as a Python wizard.
 
 ## Topics
 
-* Installation
-* Setting up a Python Project
-* Our First Program: "Hello World"
-* Comments
-* Variables
-* Typecasting
-* Operators in Python
-* Modules and Pip
-* Download Handwritten Notes
-* String and String Methods
-* User Input in Python
-* List & List Methods
-* Tuple and Tuple Methods
-* Set and Set Methods
-* Dictionary & Dictionary Methods
-* if-else Statements
-* Match case
-* for Loop
-* while Loop
-* Functions
-* Exception Handling
-* File I/O
-* OOPs
-* Project 1: Robo Speaker
-* Project 2: Weather App
-* Project 3: Image Resizer
-* Project 4: PDF Merger
-* Project 5: Facial Recognition Attendance System
-* Conclusion and where to go from here
+- [x] Installation
+- [x] Setting up a Python Project
+- Our First Program: "Hello World"
+- Comments
+- Variables
+- Typecasting
+- Operators in Python
+- Modules and Pip
+- Download Handwritten Notes
+- String and String Methods
+- User Input in Python
+- List & List Methods
+- Tuple and Tuple Methods
+- Set and Set Methods
+- Dictionary & Dictionary Methods
+- if-else Statements
+- Match case
+- for Loop
+- while Loop
+- Functions
+- Exception Handling
+- File I/O
+- OOPs
+- Project 1: Robo Speaker
+- Project 2: Weather App
+- Project 3: Image Resizer
+- Project 4: PDF Merger
+- Project 5: Facial Recognition Attendance System
+- Conclusion and where to go from here
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Resources
