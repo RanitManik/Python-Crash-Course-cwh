@@ -28,7 +28,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 
 - [x] Installation
 - [x] Setting up a Python Project
-- Our First Program: "Hello World"
+- [x] Our First Program: "Hello World"
 - Comments
 - Variables
 - Typecasting

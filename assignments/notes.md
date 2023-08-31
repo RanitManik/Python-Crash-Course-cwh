@@ -1,0 +1,2 @@
+- comment syntax: '#' for single line and ''' comment ''' for multiple line comment
+- Data Types: int, float,... , true/false(Boolean), None
