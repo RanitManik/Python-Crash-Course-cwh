@@ -55,6 +55,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 * Project 4: PDF Merger
 * Project 5: Facial Recognition Attendance System
 * Conclusion and where to go from here
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Resources
 
