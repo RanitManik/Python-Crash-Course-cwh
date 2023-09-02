@@ -4,3 +4,4 @@
 - **exponentiation operator** (**) - it will calculate 'a' to the power 'b'
 - **print(not(True)):**  reverse the result
 - **print(not(False)):** reverse the result
+- **print string([a:b]):** print starts from a and goes all the way to b-1
