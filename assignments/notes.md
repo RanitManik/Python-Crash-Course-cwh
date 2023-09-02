@@ -5,3 +5,4 @@
 - **print(not(True)):**  reverse the result
 - **print(not(False)):** reverse the result
 - **print string([a:b]):** print starts from a and goes all the way to b-1
+- **input function:** always take input of type string by default.
