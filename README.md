@@ -32,11 +32,11 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Comments
 - [x] Variables
 - [x] Typecasting
-- Operators in Python
-- Modules and Pip
-- Download Handwritten Notes
-- String and String Methods
-- User Input in Python
+- [x] Operators in Python
+- [x] Modules and Pip
+- [x] Download Handwritten Notes
+- [x] String and String Methods
+- [x] User Input in Python
 - List & List Methods
 - Tuple and Tuple Methods
 - Set and Set Methods
