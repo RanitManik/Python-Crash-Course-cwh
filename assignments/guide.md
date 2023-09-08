@@ -8,3 +8,6 @@ program_07.py - using pandas Packages in python
 program_08.py - using some built in methods/functions
 program_09.py - using input functions
 program_10.py - More on strings
+program_11.py - list objects and some methods
+program_12.py - tuple objects and discussion
+program_12.py - Sets and discussion
