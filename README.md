@@ -41,7 +41,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Tuple and Tuple Methods
 - [x] Set and Set Methods
 - [x] Dictionary & Dictionary Methods
-- if-else Statements
+- [x] if-else Statements
 - Match case
 - for Loop
 - while Loop
