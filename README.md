@@ -37,9 +37,9 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Download Handwritten Notes
 - [x] String and String Methods
 - [x] User Input in Python
-- List & List Methods
-- Tuple and Tuple Methods
-- Set and Set Methods
+- [x] List & List Methods
+- [x] Tuple and Tuple Methods
+- [x] Set and Set Methods
 - Dictionary & Dictionary Methods
 - if-else Statements
 - Match case
