@@ -43,8 +43,8 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Dictionary & Dictionary Methods
 - [x] if-else Statements
 - [x] Match case
-- for Loop
-- while Loop
+- [x] for Loop
+- [x] while Loop
 - Functions
 - Exception Handling
 - File I/O
