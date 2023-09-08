@@ -40,7 +40,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] List & List Methods
 - [x] Tuple and Tuple Methods
 - [x] Set and Set Methods
-- Dictionary & Dictionary Methods
+- [x] Dictionary & Dictionary Methods
 - if-else Statements
 - Match case
 - for Loop
