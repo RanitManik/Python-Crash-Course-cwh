@@ -42,7 +42,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Set and Set Methods
 - [x] Dictionary & Dictionary Methods
 - [x] if-else Statements
-- Match case
+- [x] Match case
 - for Loop
 - while Loop
 - Functions
