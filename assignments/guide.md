@@ -10,4 +10,6 @@ program_09.py - using input functions
 program_10.py - More on strings
 program_11.py - list objects and some methods
 program_12.py - tuple objects and discussion
-program_12.py - Sets and discussion
+program_13.py - Sets and discussion
+program_14.py - Dictionaries and discussion
+program_15.py - Dictionaries and Methods
