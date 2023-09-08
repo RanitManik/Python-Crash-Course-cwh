@@ -5,7 +5,7 @@
 - **program_05.py** - Comparison operator
 - **program_06.py** - Logical operator
 - **program_07.py** - using pandas Packages in python
-- **program_08.py** - using some built in methods/functions
+- **program_08.py** - using some built in methods
 - **program_09.py** - using input functions
 - **program_10.py** - More on strings
 - **program_11.py** - list objects and some methods
