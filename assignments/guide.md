@@ -18,3 +18,5 @@ program_17.py - Match Case
 program_18.py - Match Case Quick quiz
 program_19.py - for Loop
 program_20.py - while Loop
+program_21.py - more with while Loop
+program_22.py - continue statement in for loop
