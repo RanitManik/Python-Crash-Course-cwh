@@ -13,3 +13,8 @@ program_12.py - tuple objects and discussion
 program_13.py - Sets and discussion
 program_14.py - Dictionaries and discussion
 program_15.py - Dictionaries and Methods
+program_16.py - If-else Statement
+program_17.py - Match Case
+program_18.py - Match Case Quick quiz
+program_19.py - for Loop
+program_20.py - while Loop
