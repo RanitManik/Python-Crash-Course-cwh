@@ -1,7 +1,12 @@
 # This is program 14
-a = {}
-print(a, type(a))
+a = ()
+print("a", type(a))
+# This is an empty tuple
+
+b = {}
+print("b", type(b))
 # This is an empty dictionary
-b = set()
-print(b, type(b))
+
+c = set()
+print("c", type(c))
 # This is an empty Set
