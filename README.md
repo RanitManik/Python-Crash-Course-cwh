@@ -49,9 +49,9 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Exception Handling
 - [x] File I/O
 - [x] OOPs
-- Project 1: Robo Speaker
-- Project 2: Weather App
-- Project 3: Image Resizer
+- [x] Project 1: Robo Speaker
+- [x] Project 2: Weather App
+- [x] Project 3: Image Resizer
 - Project 4: PDF Merger
 - Project 5: Facial Recognition Attendance System
 - Conclusion and where to go from here
