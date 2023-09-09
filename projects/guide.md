@@ -1,1 +1,2 @@
-- **project_01.py** - generate a letter for "Leave of Absence Request for Personal Reasons"
+- **project_00.py** - generate a letter for "Leave of Absence Request for Personal Reasons"
+- **project_01.py** - Robo Speaker
