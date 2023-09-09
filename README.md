@@ -46,9 +46,9 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] for Loop
 - [x] while Loop
 - [x] Functions
-- Exception Handling
-- File I/O
-- OOPs
+- [x] Exception Handling
+- [x] File I/O
+- [x] OOPs
 - Project 1: Robo Speaker
 - Project 2: Weather App
 - Project 3: Image Resizer
