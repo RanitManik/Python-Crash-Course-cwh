@@ -44,7 +44,6 @@ def print_letter():
     Thank you for your understanding and support. I look forward to your positive response.
 
     Sincerely,
-
     {Your_Name}
 
     {Your_Name}
