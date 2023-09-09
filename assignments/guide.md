@@ -20,3 +20,5 @@
 - **program_20.py** - while Loop
 - **program_21.py** - more with while Loop
 - **program_22.py** - continue statement in for loop
+- **program_23.py** - Functions
+- **program_24.py** - letter Generator
