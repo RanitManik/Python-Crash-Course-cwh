@@ -45,7 +45,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Match case
 - [x] for Loop
 - [x] while Loop
-- Functions
+- [x] Functions
 - Exception Handling
 - File I/O
 - OOPs
