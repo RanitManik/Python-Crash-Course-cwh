@@ -1,6 +1,5 @@
 # This is program 24
-# This will generate an absence leave letter to the HOD getting input of student name and date
-# by default the program will fill other credentials and reasons
+# This will generate an absence leave letter to the HOD getting input of student name and date and other credentials
 
 # user's personal details go here ==>
 date = input("Enter the date: ")
