@@ -21,4 +21,5 @@
 - **program_21.py** - more with while Loop
 - **program_22.py** - continue statement in for loop
 - **program_23.py** - Functions
-- **program_24.py** - letter Generator
+- **program_24.py** - f-String & /n
+- **program_25.py** - function return
