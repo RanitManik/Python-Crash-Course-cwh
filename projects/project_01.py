@@ -25,6 +25,9 @@ def print_letter():
 
     {Recipient_Name}
     {Recipient_City}, {Recipient_State}, {Recipient_ZIP}
+    
+    
+    Subject: Leave of Absence Request for Personal Reasons
 
     Dear {Recipient_Name},
 
