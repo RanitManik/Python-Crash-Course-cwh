@@ -1,6 +1,6 @@
 # This is project 1
 # generate a letter for "Leave of Absence Request for Personal Reasons"
-# This will generate an absence leave letter to the Recipient getting input of student name and date and other credentials
+# This will generate a leave letter to the Recipient getting input of student name and date and other credentials
 
 # user's personal details go here ==>
 date = input("Enter the date: ")

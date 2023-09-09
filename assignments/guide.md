@@ -23,3 +23,11 @@
 - **program_23.py** - Functions
 - **program_24.py** - f-String & /n
 - **program_25.py** - function return
+- **program_26.py** - Exception Handling
+- **program_27.py** - More on Exception Handling
+- **program_28.py** - file I/O (write)
+- **program_29.py** - more on file I/O (write)
+- **program_30.py** - file I/O (read)
+- **program_31.py** - file I/O (append)
+- **program_32.py** - OOPs
+- **program_33.py** - constructors in OOPs
