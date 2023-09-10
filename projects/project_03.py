@@ -1,15 +1,22 @@
-# This is project 03
-
 import cv2
 
 # credits ==>
 print("Welcome to image resizer v1.9 created by Ranit Kumar Manik.")
 
 # writing the image name ==>
-image_name = input("Enter the image file name with extension: ")
+choice = input("If you want to try a demo press: 'd', if you want to go for custom press:'c' ==>\n")
+if choice == 'd':
+    image_name = ["assets/ranit.jpg"]
+elif choice == 'c':
+    image_name = input("Enter the image file name with extension with location: ")
+else:
+    print("Plz Enter a valid choice")
+
+# If you want to use a list (consistent with the demo case):
+# image_name = ["assets/ranit.jpg"] if choice == 'd' else [input("Enter the image file name with extension with location: ")]
 
 # reading the image ==>
-img = cv2.imread(image_name, cv2.IMREAD_UNCHANGED)
+img = cv2.imread(image_name[0], cv2.IMREAD_UNCHANGED)
 
 # prints the original dimension of the image ==>
 print('Original Dimensions : ', img.shape)

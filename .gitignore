@@ -59,4 +59,8 @@ crashlytics-build.properties
 fabric.properties
 
 ### Intellij Patch ###
-/projects/2023-09-10.csv
+
+## user inputs ##
+*.csv
+*merged.pdf
+*Resized image.png

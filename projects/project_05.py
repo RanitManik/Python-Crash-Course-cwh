@@ -4,6 +4,10 @@ import numpy as np
 import csv
 from datetime import datetime
 
+# credits ==>
+print("Welcome to Facial Recognition Attendance System v3.4 created by Ranit Kumar Manik.")
+print("Loading...")
+
 # Initialize camera
 video_capture = cv2.VideoCapture(0)
 
