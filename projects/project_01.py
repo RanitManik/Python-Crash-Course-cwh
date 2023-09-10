@@ -6,10 +6,12 @@ speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
 # To stop the program press 'q'
 
+print("Enter the word you want to speak it out by computer: ")
 while 1:
-    print("Enter the word you want to speak it out by computer")
     s = input()
-    speaker.Speak(s)
     if s == 'q':
         print("exiting...")
+        speaker.Speak("exiting")
         break
+    else:
+        speaker.Speak(s)

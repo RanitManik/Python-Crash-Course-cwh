@@ -1,2 +1,4 @@
 - **project_00.py** - generate a letter for "Leave of Absence Request for Personal Reasons"
 - **project_01.py** - Robo Speaker
+- **project_02.py** - Weather App
+- **project_03.py** - Image Resizer
