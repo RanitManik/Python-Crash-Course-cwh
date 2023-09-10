@@ -52,7 +52,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Project 1: Robo Speaker
 - [x] Project 2: Weather App
 - [x] Project 3: Image Resizer
-- Project 4: PDF Merger
+- [x] Project 4: PDF Merger
 - Project 5: Facial Recognition Attendance System
 - Conclusion and where to go from here
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
