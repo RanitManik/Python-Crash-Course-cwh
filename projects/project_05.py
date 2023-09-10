@@ -8,13 +8,13 @@ from datetime import datetime
 video_capture = cv2.VideoCapture(0)
 
 # Load known faces and their names
-ranit_image = face_recognition.load_image_file("../assets/ranit.jpg")
+ranit_image = face_recognition.load_image_file("assets/ranit.jpg")
 ranit_encoding = face_recognition.face_encodings(ranit_image)[0]
 
-soumen_image = face_recognition.load_image_file("../assets/soumen.jpg")
+soumen_image = face_recognition.load_image_file("assets/soumen.jpg")
 soumen_encoding = face_recognition.face_encodings(soumen_image)[0]
 
-king_image = face_recognition.load_image_file("../assets/king_khan.jpeg")
+king_image = face_recognition.load_image_file("assets/king_khan.jpeg")
 king_encoding = face_recognition.face_encodings(king_image)[0]
 
 known_face_encodings = [ranit_encoding, soumen_encoding, king_encoding]
