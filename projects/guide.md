@@ -2,3 +2,5 @@
 - **project_01.py** - Robo Speaker
 - **project_02.py** - Weather App
 - **project_03.py** - Image Resizer
+- **project_04.py** - PDF Merger
+- **project_05.py** - Facial Recognition Attendance System

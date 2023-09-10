@@ -1,4 +1,4 @@
-# This is project 0
+# This is project 00
 # generate a letter for "Leave of Absence Request for Personal Reasons"
 # This will generate a leave letter to the Recipient getting input of student name and date and other credentials
 
