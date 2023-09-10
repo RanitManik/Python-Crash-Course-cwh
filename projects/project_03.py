@@ -12,9 +12,6 @@ elif choice == 'c':
 else:
     print("Plz Enter a valid choice")
 
-# If you want to use a list (consistent with the demo case):
-# image_name = ["assets/ranit.jpg"] if choice == 'd' else [input("Enter the image file name with extension with location: ")]
-
 # reading the image ==>
 img = cv2.imread(image_name[0], cv2.IMREAD_UNCHANGED)
 
