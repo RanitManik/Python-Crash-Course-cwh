@@ -1,26 +1,16 @@
 <a name="readme-top"></a>
 <div align="center">
-<!--   <a href="https://github.com/RanitManik/Python-Wizardry.git">
-    <img src="path_to_your_logo_or_icon.png" alt="Logo" height="300">
-  </a> -->
-<h1> Python Wizardry - Unleashing Magic through Python
+<h1> Python Crash Course by CodeWithHarry
 </h1>
-<!-- <a href="https://github.com/YourUsername/Python-Wizardry">Visit the Repository »</a>
-<br>
-<br> -->
-<!-- <a href="https://github.com/YourUsername/Python-Wizardry/">View Demo</a>
-·
-<a href="https://github.com/YourUsername/Python-Wizardry/issues">Report Bug</a>
-·
-<a href="https://github.com/YourUsername/Python-Wizardry/issues">Request Feature</a> -->
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/Python-Wizardry.git)
+![hq720](https://github.com/RanitManik/Python-Wizardry-CodeWithHarry/assets/138437760/86142520-6ed0-46ab-8659-c959a415f0a9)
+
 
 # About The Project
 
-Welcome to Python Wizardry, where we explore the enchanting world of Python programming! This repository is a collection
+Welcome to Python Crash Course, where we explore the enchanting world of Python programming! This repository is a collection
 of my Python assignments, projects and spellbinding code creations. Delve into the realm of algorithms, data structures,
 and Python sorcery that showcases my journey as a Python wizard.
 
@@ -55,7 +45,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - [x] Project 4: PDF Merger
 - [x] Project 5: Facial Recognition Attendance System
 - [x] Conclusion and where to go from here
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Resources
 
@@ -68,7 +58,7 @@ and Python sorcery that showcases my journey as a Python wizard.
 - inspire others to embrace the power of Python,
 - share knowledge and insights about Python techniques and best practices,
 - cast magical Python spells through creative projects and experiments.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # Getting Started
 
@@ -77,12 +67,12 @@ _To explore into this repository, follow these steps:_
 - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/RanitManik/Python-Wizardry.git
+   git clone https://github.com/RanitManik/Python-Crash-Course.git
 
 - **Add This repo as Remote**  :
 
    ```bash
-   git remote add origin https://github.com/RanitManik/Python-Wizardry.git
+   git remote add origin https://github.com/RanitManik/Python-Crash-Course.git
 
 - **Create and Switch to Your Branch** :
 
@@ -94,31 +84,27 @@ _To explore into this repository, follow these steps:_
    ```bash
     git push --set-upstream origin DEV/{your_name}/{in which you working on}
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 
 # Contact
 
-- Name - <a href="https://github.com/RanitManik/Python-Wizardry.git">Ranit Kumar Manik</a>
+- Name - <a href="https://ranitmanik.great-site.net/">Ranit Kumar Manik</a>
 
-- Email - ranitmanikofficial@outlook.com
+- Email - ranitmanik.dev@gmail.com
 
-- Project Link - [https://github.com/RanitManik/Plannet-Earth.git](https://github.com/RanitManik/Python-Wizardry.git)
+- Project Link - [https://github.com/RanitManik/Plannet-Earth.git](https://github.com/RanitManik/Python-Crash-Course.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # Acknowledgments
 
-I am grateful to the Python community and the vast pool of resources that have contributed to my growth as a Python
-programmer.
-
+I express my gratitude to the Python community and the extensive array of resources that have played a pivotal role in fostering my development as a Python programmer. In particular, I want to extend a special thanks to Harish sir (CodeWithHarry) for his exceptional course, which comprehensively addresses all fundamental and crucial aspects of Python programming.
 Special thanks to:
 
 - Online tutorials and courses that provided valuable insights and knowledge about Python programming.
@@ -127,10 +113,9 @@ Special thanks to:
 - My friends and fellow programmers who offered support, feedback, and encouragement throughout my Python coding
   journey.
 
-Thank you for joining me on this magical adventure through Python-Wizardry. Together, we can harness the power of Python
+Thank you for joining me on this magical adventure through Python-Crash Course. Together, we can harness the power of Python
 and weave wonders through code!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: logo.png
+
