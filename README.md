@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Email - ranitmanik.dev@gmail.com
 
-- Project Link - [https://github.com/RanitManik/Plannet-Earth.git](https://github.com/RanitManik/Python-Crash-Course.git)
+- Link - [https://ranitmanik.great-site.net/](https://ranitmanik.great-site.net/)
 
 
 
