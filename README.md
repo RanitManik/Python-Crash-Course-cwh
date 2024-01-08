@@ -94,11 +94,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Contact
 
-- Name - <a href="https://ranitmanik.great-site.net/">Ranit Kumar Manik</a>
-
-- Email - ranitmanik.dev@gmail.com
-
-- Link - [https://ranitmanik.great-site.net/](https://ranitmanik.great-site.net/)
+- [Email](mailto:ranitmanik.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [GitHub](https://github.com/RanitManik)
+- [Instagram](https://www.instagram.com/ranit_manik_/)
+- [Facebook](https://www.facebook.com/RanitKumarManik/)
+- [Twitter](https://twitter.com/RANIT_MANIK)
+- [Codepen](https://codepen.io/RANIT-MANIK)
+- [replit](https://replit.com/@ranit-manik)
 
 
 
