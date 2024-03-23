@@ -42,7 +42,7 @@ Welcome to Python Crash Course, where we delve into the enchanting world of Pyth
 | 20  | Functions                                 | Defining and using functions in Python.             | Completed   |
 | 21  | Exception Handling                        | Managing exceptions and errors in Python.           | Completed   |
 | 22  | File I/O                                  | Reading from and writing to files in Python.        | Completed   |
-| 23  | OOPs                                      | Introduction to Object-Oriented Programming in Python.| Completed |
+| 23  | OOPs                                      | Introduction to Object-Oriented Programming         | Completed |
 | 24  | Project 1: Robo Speaker                   | Building a Robotic Speaker using Python.            | Completed   |
 | 25  | Project 2: Weather App                    | Creating a Weather Application in Python.           | Completed   |
 | 26  | Project 3: Image Resizer                  | Developing an Image Resizer using Python.           | Completed   |
@@ -70,13 +70,13 @@ To explore this repository, follow these steps:
 - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/RanitManik/Python-Crash-Course.git
+   git clone https://github.com/RanitManik/Python-Crash-Course-cwh.git
    ```
 
 - **Add This repo as Remote**:
 
    ```bash
-   git remote add origin https://github.com/RanitManik/Python-Crash-Course.git
+   git remote add origin https://github.com/RanitManik/Python-Crash-Course-cwh.git
    ```
 
 - **Create and Switch to Your Branch**:
